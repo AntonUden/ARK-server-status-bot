@@ -1,0 +1,23 @@
+{
+  "name": "ark-server-status-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node ./dist/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@types/gamedig": "^1.0.0",
+    "@types/node": "^12.7.5",
+    "discord.js": "^11.5.1",
+    "gamedig": "^2.0.14",
+    "nodemon": "^1.19.2",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  }
+}

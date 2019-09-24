@@ -1,0 +1,10 @@
+{
+	"discord_token": "",
+	"servers": [
+		{
+			"name": "example",
+			"ip": "192.168.1.164",
+			"port": "7777"
+		}
+	]
+}
